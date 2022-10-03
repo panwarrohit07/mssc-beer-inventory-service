@@ -1,0 +1,9 @@
+D:\Practice Tutorials\Java\Udemy\spring-microservices\micro-brewery\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\bootstrap\BeerInvntoryBootstrap.java
+D:\Practice Tutorials\Java\Udemy\spring-microservices\micro-brewery\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\web\mappers\DateMapper.java
+D:\Practice Tutorials\Java\Udemy\spring-microservices\micro-brewery\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\web\mappers\BeerInventoryMapper.java
+D:\Practice Tutorials\Java\Udemy\spring-microservices\micro-brewery\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\domain\BeerInventory.java
+D:\Practice Tutorials\Java\Udemy\spring-microservices\micro-brewery\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\web\controllers\BeerInventoryController.java
+D:\Practice Tutorials\Java\Udemy\spring-microservices\micro-brewery\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\domain\BaseEntity.java
+D:\Practice Tutorials\Java\Udemy\spring-microservices\micro-brewery\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\web\model\BeerInventoryDto.java
+D:\Practice Tutorials\Java\Udemy\spring-microservices\micro-brewery\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\repositories\BeerInventoryRepository.java
+D:\Practice Tutorials\Java\Udemy\spring-microservices\micro-brewery\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\BeerInventoryApplication.java
